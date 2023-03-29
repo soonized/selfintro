@@ -1,0 +1,272 @@
+body{
+    background-color: #eae6d8;
+}
+
+.S03 a{
+    text-decoration: none;
+    color: beige;
+}
+
+.S02{
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+    font-family: 'Jost', 'Noto Sans KR', sans-serif;
+    color: #3894e0;
+}
+.headline{
+    text-align: center;
+    font-weight: 900;
+    color: #3894e0;
+    font-size: 90px;
+    margin-bottom: 0;
+    margin-top: 0;
+    margin-left: 80px;
+    margin-right: 80px;
+    text-shadow: -2px 0px black, 0px 2px black, 2px 0px black, 0px -2px black;
+}
+
+.headlineL{
+    font-size: 14px;
+    margin-left: 20px;
+}
+
+.headlineR{
+    font-size: 14px;
+}
+
+a{
+    text-decoration: none;
+    color: #3894e0;
+}
+
+.S03{
+    display: flex;
+    justify-content: center; 
+
+}
+.menuBar{
+    width: 15%;
+    outline: solid 2px #000;
+    border-radius: 20px;
+}
+.list div{
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+    font-family: 'Jost', 'Noto Sans KR', sans-serif;
+    font-weight: 900;
+    outline: solid 2px #000;
+}
+.list div:hover{
+    background-color: black;
+}
+
+.menu{
+    background-color: black;
+    padding: 5px;
+    font-size: 20px;
+    font-weight: 700;
+    font-family: 'Noto Sans KR', sans-serif;
+    border-radius: 20px 20px 0px 0px;
+}
+.menu01{
+    background-color: #3894e0;
+}
+.menu02{
+    background-color: #4ea047;
+}
+.menu03{
+    background-color: #ffa9a9;
+}
+.menu04{
+    background-color: #3894e0;
+}
+.menu05{
+    background-color: #4ea047;
+}
+.menu06{
+    background-color: #ffa9a9;
+}
+.menu07{
+    background-color: #3894e0;
+    border-radius: 0px 0px 20px 20px;
+}
+
+.contentWindow{
+    width: 800px;
+    border: solid 2px black;
+    margin-left: 20px;
+    margin-right: 20px;
+    border-radius: 20px;
+}
+.content{
+    background-color: black;
+    padding: 5px;
+    font-size: 20px;
+    font-weight: 700;
+    font-family: 'Noto Sans KR', sans-serif;
+    border-radius: 18px 18px 0px 0px;
+}
+
+.contentBar{
+    background-color: white;
+    height: 588px;
+    overflow: auto;
+    font-family: 'Jost', 'Noto Sans KR', sans-serif;
+    border-radius: 0px 0px 20px 20px;
+    
+}
+
+.contentArea{
+    text-align: center;
+}
+
+.blackBar{
+    background-color: black;
+    padding: 5px;
+    font-size: 20px;
+    border-radius: 17px 17px 0px 0px;
+}
+
+
+.Q01{
+    width: 500px;
+    background-color: #ffa9a9;
+    margin: auto;
+    border-radius: 20px;
+    margin-bottom: 80px;
+    border: solid 2px black;
+}
+.Q02{
+    width: 500px;
+    background-color: #3894e0;
+    margin: auto;
+    border-radius: 20px;
+    margin-bottom: 80px;
+    border: solid 2px black;
+}
+.Q03{
+    width: 500px;
+    background-color: #4ea047;
+    margin: auto;
+    border-radius: 20px;
+    margin-bottom: 120px;
+    border: solid 2px black;
+}
+
+.QQ01{
+    font-size: 25px;
+    font-weight: 600;
+    text-align: left;
+    margin-left: 45px;
+    margin-bottom: 5px;
+}
+
+.A01{
+    width: 350px;
+    background-color: #eae6d8;
+    margin-top: 0;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+    padding: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.tmiWindow{
+    width: 15%;
+}
+.kanjiBar{
+
+    height: 300px;
+    background-color: #ffa9a9;
+    border-radius: 20px;
+    border: solid 2px black;
+    margin-bottom: 20px;
+}   
+.tmiBar{
+    height: 300px;
+    background-color: #3894e0;
+    border-radius: 20px;
+    border: solid 2px black;
+
+}
+
+
+
+h1{
+    font-weight: 900;
+    font-size: 60px;
+    color: #ffa9a9;
+    margin-left: 30px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    text-shadow: -2px 0px black, 0px 2px black, 2px 0px black, 0px -2px black;
+}
+
+hr{
+    width: 750px;
+    height: 2px;
+    background-color: black;
+    margin-bottom: 50px;
+}
+
+
+.photo{
+    display: flex;
+}
+.kor{
+    display: flex;
+}
+.eng{
+    display: flex;
+}
+
+.Kwon{
+    width: 300px;
+    height: 380px;
+    margin-right: 20px;
+    margin-left: 30px;
+}
+.korName{
+    font-family: 'Noto Sans KR', sans-serif;
+    font-size: 60px;
+    font-weight: 900;
+    line-height: 0;
+
+}
+.engName{
+    font-size: 60px;
+    font-weight: 200;
+
+}
+
+.infoTitle{
+    font-weight: 900;
+    font-size: 20px;
+    margin-right: 20px;
+    margin-left: 40px;
+    color: #3894e0;
+}
+.infoDes{
+    font-size: 20px;
+
+}
+
+.contactBar{
+
+    height: 200px;
+    width: 200px;
+    background-color: #ffa9a9;
+    border-radius: 20px;
+    border: solid 2px black;
+    margin-bottom: 20px;
+    text-align: center;
+    margin-left: 35%;
+}  
+
+.contactContent{
+    margin: auto;
+}

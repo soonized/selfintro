@@ -1,0 +1,85 @@
+.realtitle{
+    font-weight: 900;
+    font-size: 60px;
+    color: #ffa9a9;
+    margin-left: 30px;
+    margin-top: -40px;
+    margin-bottom: -40px;
+    text-shadow: -2px 0px black, 0px 2px black, 2px 0px black, 0px -2px black;
+}
+
+hr{
+    width: 750px;
+    height: 2px;
+    background-color: black;
+    margin-bottom: 50px;
+}
+
+.content01{
+    margin: auto;
+
+}
+
+
+.date{
+    font-weight: 900;
+    font-size: 25px;
+    margin-right: 20px;
+    margin-top: 30px;
+    margin-left: 20px;
+    text-shadow: -2px 0px black, 0px 2px black, 2px 0px black, 0px -2px black;
+}
+
+.happen{
+    font-weight: 900;
+    font-size: 18px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.desc{
+    width: 400px;
+    word-break: keep-all;
+}
+
+.descWindow{
+    background-color: #eae6d8;
+    display: flex;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    border-radius: 20px;
+}
+
+
+.title{
+    font-weight: 900;
+    font-size: 30px;
+    margin-bottom: 5px;
+    margin-left: 30px;
+
+}
+
+.C01{
+    display: flex;
+
+}
+
+.blackBar02{
+    background-color: black;
+    padding: 5px;
+    font-size: 10px;
+    border-radius: 17px 17px 0px 0px;
+}
+
+.summaryWindow{
+    width: 700px;
+    border-radius: 20px;
+    border: solid 2px black;
+    margin: auto;
+}
+
+.element{
+    margin-bottom: 50px;
+}
